@@ -73,7 +73,7 @@ i weld delweddiad o'r canlyniadau yn eich porwr yn `localhost:5000`
 
 ![image](https://user-images.githubusercontent.com/10194573/227287969-6fb2c9dd-b2aa-421f-ab62-ce87078caa10.png)
 
-
+Yn cynnwys gwybodaeth sector cyhoeddus a drwyddedwyd dan Drwydded Llywodraeth Agored v3.0.
 
 
 # An English named entity recognition model further trained on entities specific to Wales
@@ -148,3 +148,5 @@ displacy.serve(doc, style="ent")
 to see a visualization of the entities in your browser at `localhost:5000`
 
 ![image](https://user-images.githubusercontent.com/10194573/227287969-6fb2c9dd-b2aa-421f-ab62-ce87078caa10.png)
+
+ Contains public sector information licensed under the Open Government Licence v3.0.
